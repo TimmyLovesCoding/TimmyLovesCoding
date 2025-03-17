@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TimmyLovesCoding
-- 👀 I’m interested in coding with python
-- 🌱 I’m currently learning more coding
-- 💞️ I’m looking to collaborate on nothing, sorry i dont collab
-- 📫 How to reach me, I will be putting a like soon
+- 👀 I’m interested in coding with Python
+- 🌱 I’m currently learning more about coding
+- 💞️ I’m looking to collaborate on nothing, I don't do collabs, sorry.
+- 📫 How to reach me, I will be putting a link soon.
 
 <!---
 TimmyLovesCoding/TimmyLovesCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
